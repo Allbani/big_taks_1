@@ -1,7 +1,5 @@
 # big_taks_1
 
-# big_taks_01
-
 ## Nomer 1
 
 ### Screenshots
